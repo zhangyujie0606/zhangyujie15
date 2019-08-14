@@ -9,6 +9,8 @@ keywords:
 
 license: MMMMMMM                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
+logo: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565800191910&di=0c305258d202ea4a7d9e88bfbc733902&imgtype=0&src=http%3A%2F%2Fwww.cntv.cn%2Fprogram%2Fdhc%2F20040819%2Fimages%2F102216_013d.jpg
+
 source_file:
   - src/*.c
 
